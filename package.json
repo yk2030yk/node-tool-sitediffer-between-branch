@@ -1,0 +1,24 @@
+{
+  "name": "autoss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "date-utils": "^1.2.21",
+    "puppeteer": "^1.10.0",
+    "resemblejs": "^2.10.3",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "babel-node lib/index.js --"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

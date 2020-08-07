@@ -1,0 +1,12 @@
+{
+	"mode": "file",
+	"git": {
+		"repository": "D:/work/testrepo/"
+	},
+	"sitemap": {
+		"url": "http://domain1.on.cld-vm.s-bs.jp/sitemap_pc1.xml.gz"
+	},
+	"file": {
+		"path": "./urllist.txt"
+	}
+}
